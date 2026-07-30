@@ -29,10 +29,9 @@ Found a bug or a page that's still white or broken? Open an issue or submit a pu
 MIT — see [LICENSE](LICENSE) for details.
 
 ## Disclaimer
-This project is not affiliated with, endorsed by, or officially connected to Kansas Connections Academy, Connections Education, or Pearson Online & Blended Learning.
 
-This script only changes how the page *looks* in your browser (CSS/visual styling) — it does not modify, access, or transmit any of your account data, grades, or personal information.
+**UNOFFICIAL TOOL** This project is not affiliated with, endorsed by, or officially connected to Kansas Connections Academy, Connections Education, or Pearson Online & Blended Learning.
 
-This script is provided "as is," without warranty of any kind. Use at your own risk. The author is not responsible for any issues, disruptions, or unintended behavior that may result from using this script, including but not limited to visual bugs, page conflicts, or platform changes that break functionality.
+**DATA & PRIVACY** This script only changes how the page *looks* in your browser (CSS/visual styling) — it does not modify, access, or transmit any of your account data, grades, or personal information.
 
-If your school or platform prohibits browser modifications/userscripts, check your local policies before installing.
+**USE AT YOUR OWN RISK** This script is provided "as is," without warranty of any kind. Use at your own risk. The author is not responsible for any issues, disruptions, or unintended behavior that may result from using this script, including but not limited to visual bugs, page conflicts, or platform changes that break functionality.
