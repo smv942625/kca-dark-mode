@@ -20,7 +20,7 @@ A Tampermonkey userscript that adds a dark theme to the KCA platform, since star
 ## Known Issues
 - Some icons may still appear with their default (light) styling on certain pages
 - A few less-common pages may not be fully covered yet
-- If you find a broken element, please [open an issue](link-to-issues) or send a screenshot on Discord (@smv942625)
+- If you find a broken element, please [open an issue](link-to-issues) or send a screenshot on Discord (Discord: @smv942625)
 
 ## Contributing
 Found a bug or a page that's still white or broken? Open an issue or submit a pull request — screenshots help a lot.
