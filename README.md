@@ -4,7 +4,10 @@ This project is a Dark Mode Theme for Kansas Connections Academy - a Tampermonke
 
 A Tampermonkey userscript that adds a dark theme to the KCA platform, since staring at a bright white screen all day just ain't it.
 
-![screenshot](screenshots/before-after.png)
+| Before | After |
+| :---: | :---: |
+| <img width="2537" alt="Before - Default KCA" src="https://github.com/user-attachments/assets/8f175f3a-a645-4820-be0d-b71234cf3461" /> | <img width="2533" alt="After - KCA Dark Mode" src="https://github.com/user-attachments/assets/39a64516-af82-4bc9-b244-6270cd85d839" /> |
+
 
 ## Features
 - Dark theme applied across most KCA pages (dashboard, gradebook, assignments)
