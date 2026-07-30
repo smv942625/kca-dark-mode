@@ -24,6 +24,7 @@ A Tampermonkey userscript that adds a dark theme to the KCA platform, since star
 - Some icons may still appear with their default (light) styling on certain pages
 - A few less-common pages may not be fully covered yet
 - If you find a broken element, please [open an issue](link-to-issues) or send a screenshot on Discord (Discord: @smv942625)
+- For security reasons, the Pearson Authentication page will not be styled by this script. This decision is final with no exceptions.
 
 ## Contributing
 Found a bug or a page that's still white or broken? Open an issue or submit a pull request — screenshots help a lot.
