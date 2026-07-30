@@ -8,8 +8,8 @@ A Tampermonkey userscript that adds a dark theme to the KCA platform, since star
 
 ## Features
 - Dark theme applied across most KCA pages (dashboard, gradebook, assignments)
-- Easy on the eyes, especially for late-night homework sessions
-- Lightweight — just CSS/JS injected via Tampermonkey, doesn't touch your account or data
+- No more flash bangs late at night
+- Lightweight — just CSS/JS injected via Tampermonkey, **DOES NOT** touch your account or data
 
 ## Installation
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension
@@ -23,7 +23,7 @@ A Tampermonkey userscript that adds a dark theme to the KCA platform, since star
 - If you find a broken element, please [open an issue](link-to-issues) or send a screenshot on Discord
 
 ## Contributing
-Found a bug or a page that's not styled right? Open an issue or submit a pull request — screenshots help a lot.
+Found a bug or a page that's still white or broken? Open an issue or submit a pull request — screenshots help a lot.
 
 ## License
 MIT — see [LICENSE](LICENSE) for details.
