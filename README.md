@@ -16,7 +16,7 @@ A Tampermonkey userscript that adds a dark theme to the KCA platform, since star
 
 ## Installation
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension
-2. Click this link to install the script: [kca-dark-mode.user.js](https://github.com/smv942625/kca-dark-mode/blob/main/kca-dark-mode.user.js)
+2. Click this link to install the script: [kca-dark-mode.user.js](https://raw.githubusercontent.com/smv942625/kca-dark-mode/main/kca-dark-mode.user.js)
 3. Tampermonkey will prompt you to confirm — click **Install**
 4. Refresh your KCA dashboard and you're good to go
 
