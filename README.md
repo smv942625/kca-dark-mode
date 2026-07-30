@@ -28,6 +28,10 @@ A Tampermonkey userscript that adds a dark theme to the KCA platform, since star
 ## Contributing
 Found a bug or a page that's still white or broken? Open an issue or submit a pull request — screenshots help a lot.
 
+## Maintenance
+
+Although this project isn't a one-and-done drop and will be maintained, please don't expect changes instantly—updates depend on my available time. If a platform update breaks or alters the UI, I'll work on a fix whenever I'm free.
+
 ## License
 MIT — see [LICENSE](LICENSE) for details.
 
