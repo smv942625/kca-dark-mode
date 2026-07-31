@@ -1,5 +1,3 @@
-# kca-dark-mode
-This project is a Dark Mode Theme for Kansas Connections Academy - a Tampermonkey userscript that adds a dark theme to the KCA platform.
 # Dark Mode for Kansas Connections Academy
 
 A Tampermonkey userscript that adds a dark theme to the KCA platform, since staring at a bright white screen all day just ain't it.
