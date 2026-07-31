@@ -29,8 +29,7 @@ Tampermonkey will **not** work if you do not allow it to execute userscripts ins
 - For security reasons, the Pearson Authentication page will not be styled by this script. This decision is final with no exceptions.
 
 ## Contributing
-Contributions to this project are always welcome! For more information please DM me on Discord
-
+Contributions to this project are always welcome! For more information please DM me on Discord.
 Found a bug or a page that's still white or broken? Open an issue or submit a pull request — screenshots help a lot.
 
 ## Maintenance
