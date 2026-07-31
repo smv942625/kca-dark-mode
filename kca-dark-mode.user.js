@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KCA Dark Mode
 // @namespace    http://tampermonkey.net/
-// @version      1.1a
+// @version      1.1.0
 // @description  Dark mode for Kansas Connections Academy
 // @match        *://*.connexus.com/*
 // @author       Sebadeee
