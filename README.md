@@ -30,6 +30,7 @@ Tampermonkey will **not** work if you do not allow it to execute userscripts ins
 
 ## Contributing
 Contributions to this project are always welcome! For more information please DM me on Discord
+
 Found a bug or a page that's still white or broken? Open an issue or submit a pull request — screenshots help a lot.
 
 ## Maintenance
