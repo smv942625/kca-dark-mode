@@ -8,28 +8,32 @@ A Tampermonkey userscript that adds a dark theme to the KCA platform, since star
 
 
 ## Features
-- Dark theme applied across most KCA pages (dashboard, gradebook, assignments)
-- No more flash bangs late at night
-- Lightweight — just CSS/JS injected via Tampermonkey, **DOES NOT** touch your account or data
+- Dark theme applied to a few KCA pages (dashboard, gradebook, assignments)
+- No more flash bangs late at night.
+- Lightweight, Privacy & Security focused — CSS/JS injected via Tampermonkey, This script **DOES NOT** touch your account or data.
+
+## Information prior to installing
+
+Tampermonkey will **not** work if you do not allow it to execute userscripts inside the extension settings, for more information, please use this link https://www.tampermonkey.net/faq.php?q=Q209
 
 ## Installation
-1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension
-2. Click this link to install the script: [kca-dark-mode.user.js](https://raw.githubusercontent.com/smv942625/kca-dark-mode/main/kca-dark-mode.user.js)
-3. Tampermonkey will prompt you to confirm — click **Install**
-4. Refresh your KCA dashboard and you're good to go
+1. Look up Tampermonkey on your preferred browser, or visit the [Tampermonkey](https://www.tampermonkey.net/) link to install it.
+2. Click the provided link to install the script: [kca-dark-mode.user.js](https://raw.githubusercontent.com/smv942625/kca-dark-mode/main/kca-dark-mode.user.js)
+3. Tampermonkey will prompt you to confirm — click **Install.** 
+4. Refresh your KCA dashboard and you're good to go.
 
 ## Known Issues
-- Some icons may still appear with their default (light) styling on certain pages
-- A few less-common pages may not be fully covered yet
-- If you find a broken element, please [open an issue](link-to-issues) or send a screenshot on Discord (Discord: @smv942625)
+- Some elements, icons, or more may still appear with their default (light) styling on certain pages.
+- A few less-common pages may not be fully covered yet.
+- If you find a broken element or issues please [open an issue](link-to-issues) or send a screenshot on Discord (Discord: @smv942625)
 - For security reasons, the Pearson Authentication page will not be styled by this script. This decision is final with no exceptions.
 
 ## Contributing
+Contributions to this project are always welcome! For more information please DM me on Discord
 Found a bug or a page that's still white or broken? Open an issue or submit a pull request — screenshots help a lot.
 
 ## Maintenance
-
-Although this project isn't a one-and-done drop and will be maintained, please don't expect changes instantly—updates depend on my available time. If a platform update breaks or alters the UI, I'll work on a fix whenever I'm free.
+This project will be maintained, but please don't expect instant changes to the script as it will be based on my available time. If a platform update breaks or messes with the UI, I will work on a fix to patch it.
 
 ## License
 MIT — see [LICENSE](LICENSE) for details.
